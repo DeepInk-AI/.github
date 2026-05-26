@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./home.png" alt="深墨 DeepInk" width="100%" />
-</p>
 
 <p align="center">
   <img src="./logo.png" alt="DeepInk Logo" width="84" />
@@ -27,7 +24,7 @@
 深墨不是一个简单的聊天式生成工具，而是围绕“论文交付”设计的一套工作流系统。第一版本会优先打通用户真正需要的核心路径：登录注册、论文创作、万方文献插入、段落级生成、在线编辑排版、文档导出、AIGC 降重、充值计费与代理模式。
 
 <p align="center">
-  <img src="./showcase.png" alt="深墨工作台视觉" width="100%" />
+  <img src="./bg1.png" alt="深墨工作台视觉" width="100%" />
 </p>
 
 ## 核心能力
@@ -88,10 +85,6 @@ flowchart LR
 | --- | --- |
 | [DeepInk](https://github.com/DeepInk-AI/DeepInk) | 深墨前端 Monorepo，包含 Web 工作台与 Docs 官网。 |
 | [DeepInk-Core](https://github.com/DeepInk-AI/DeepInk-Core) | 深墨后端服务，负责用户、论文、文献、AI 任务、计费与代理业务。 |
-
-<p align="center">
-  <img src="./night-workspace.png" alt="深墨夜间工作台视觉" width="100%" />
-</p>
 
 ---
 
